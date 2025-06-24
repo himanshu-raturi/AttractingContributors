@@ -3,5 +3,6 @@
 # List of Anime
 - HunterxHunter : Hisoka
 - Assassination Classroom: Nagisa
+- Bleach: Yachiru Kusajishi
 -
 -
