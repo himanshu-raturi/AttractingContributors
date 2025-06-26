@@ -29,3 +29,5 @@
 - Horimiya
 - ReLIFE
 - Initial D
+- Oblivion Battery
+
