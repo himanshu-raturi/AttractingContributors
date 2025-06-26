@@ -28,4 +28,6 @@
 - Slow Start
 - Horimiya
 - ReLIFE
+- Initial D
 - Oblivion Battery
+
