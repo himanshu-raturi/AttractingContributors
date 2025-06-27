@@ -30,4 +30,23 @@
 - ReLIFE
 - Initial D
 - Oblivion Battery
+- Demon Slayer (Kimetsu no Yaiba)
+- Fullmetal Alchemist: Brotherhood
+- Tokyo Revengers
+- Chainsaw Man
+- The Rising of the Shield Hero
+- Black Clover
+- Noragami
+- Fate/stay night: Unlimited Blade Works
+- Dr. Stone
+- No Game No Life
+- Death Note
+- Paranoia Agent
+- Terror in Resonance (Zankyou no Terror)
+- The Perfect Insider
+- Higurashi: When They Cry
+- Monster
+- Kaiji: Ultimate Survivor
+- Psycho-Pass
+- Ergo Proxy
 
