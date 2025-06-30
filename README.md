@@ -49,4 +49,5 @@
 - Kaiji: Ultimate Survivor
 - Psycho-Pass
 - Ergo Proxy
+- SpyXfamily
 
